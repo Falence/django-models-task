@@ -1,1 +1,1 @@
-# django-models-task
+# Task title: Django Models
